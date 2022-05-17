@@ -1,4 +1,7 @@
 import time
+import sys
+
+print(sys.path[0])
 
 tic = time.time()
 time.sleep(7)
